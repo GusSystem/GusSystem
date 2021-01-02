@@ -17,9 +17,5 @@ The Linux Post-Install script allows me to install all my software when I instal
 
 
  ## 📈 Stats
-
- - My GitHub Stats
 ![GusSystem's github stats](https://github-readme-stats.vercel.app/api?username=GusSystem&show_icons=true&theme=dark&hide_border=true)
-
- - My Favourite languages
 ![GusSystem's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusSystem&layout=compact&theme=dark&hide_border=true)
