@@ -7,9 +7,9 @@
  
 ## 🗄 My projects
 I made some Projects wich I am proud of, and here they are :) 
-- [My iOS Repo !] (https://github.com/GusSystem/repo) 
-- [The iOS 13 Dynamic wallpapers.] (https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) 
-- [My own Linux Post-Install script.] (https://github.com/GusSystem/linuxpostinstallscript) 
+- [My iOS Repo] (https://github.com/GusSystem/repo) 
+- [The iOS 13 Dynamic wallpapers] (https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) 
+- [My own Linux Post-Install script] (https://github.com/GusSystem/linuxpostinstallscript) 
 
 The iOS Repo doesn't completly work at the moment, but I am sure I will find some time (and motivation!) to fix it.
 The wallpapers are the iOS 13 wallpapers, but for macOS. Dynamic versions !
