@@ -7,15 +7,19 @@
  
 ## 🗄 My projects
 I made some Projects wich I am proud of, and here they are :) 
-- [My iOS Repo !] (https://github.com/GusSystem/repo) It doesn't completly work at the moment, but I am sure I will find some time (and motivation!) to fix it.
-- [The iOS 13 Dynamic wallpapers.] (https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) Those are the iOS 13's wallpapers, but for macOS. Dynamic versions !
-- [My own Linux Post-Install script.] (https://github.com/GusSystem/linuxpostinstallscript) This script allows me to install all my desired software when I install Linux.
+- [My iOS Repo !] (https://github.com/GusSystem/repo) 
+- [The iOS 13 Dynamic wallpapers.] (https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) 
+- [My own Linux Post-Install script.] (https://github.com/GusSystem/linuxpostinstallscript) 
+
+The iOS Repo doesn't completly work at the moment, but I am sure I will find some time (and motivation!) to fix it.
+The wallpapers are the iOS 13 wallpapers, but for macOS. Dynamic versions !
+The Linux Post-Install script allows me to install all my software when I install Linux, in one click.
 
 
  ## 📈 Stats
 
  - My GitHub Stats
-![GusSystem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GusSystem&show_icons=true&theme=dark&hide_border=true)
+![GusSystem's github stats](https://github-readme-stats.vercel.app/api?username=GusSystem&show_icons=true&theme=dark&hide_border=true)
 
  - My Favourite languages
-![GusSystem's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GusSystem&layout=compact&theme=dark&hide_border=true)
+![GusSystem's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusSystem&layout=compact&theme=dark&hide_border=true)
