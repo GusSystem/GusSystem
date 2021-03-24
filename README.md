@@ -1,19 +1,18 @@
 ### Hi there 👋
  - My name is Gus, and I am a 13-yo kid, who just wants to have fun :)
- - I am currently intrested in old iOS jailbreak, and I am (trying to) creating a repo for my old iDevices !
- - I own an iPhone 5s, an iPhone 4s and an iPad 2. I work on a MacBook Pro mid 2012 (still good !)
- - 📫 How to reach me: @GusSystem on Twitter, Gus#6969 on Discord ! (may change tho)
- - ⚡ Fun fact: If you write Fun Fact, the people will read the thing entirely.
+ - I am currently intrested in old iOS jailbreak, and I am creating a repo for my old iDevices !
+ - I own an iPhone 5s (which does not work anymore, RIP), an iPhone 4s and an iPad 2. I work on a MacBook Pro mid 2012 (still good !)
+ - 📫 How to reach me: @GusSystem on Twitter, Gus#4064 on Discord ! (These socials are subject to change, I'll update whenever I can)
  
 ## 🗄 My projects
 I made some Projects wich I am proud of, and here they are :) 
-- [My iOS Repo] (https://github.com/GusSystem/repo) 
-- [The iOS 13 Dynamic wallpapers] (https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) 
-- [My own Linux Post-Install script] (https://github.com/GusSystem/linuxpostinstallscript) 
+- [My iOS Repo](https://github.com/GusSystem/repo) 
+- [The iOS 13 Dynamic wallpapers](https://github.com/GusSystem/iOS13-Dynamic-Wallpapers-for-macOS) 
+- [My own Linux Post-Install script](https://github.com/GusSystem/linuxpostinstallscript) 
 
-The iOS Repo doesn't completly work at the moment, but I am sure I will find some time (and motivation!) to fix it.
+The iOS Repo is now working ! I learnt how Silica works, and now It is up and running. Thanks to iCraze for the test :)
 The wallpapers are the iOS 13 wallpapers, but for macOS. Dynamic versions !
-The Linux Post-Install script allows me to install all my software when I install Linux, in one click.
+The Linux Post-Install script allows me to install all my software when I install Linux, in one click. It does not work currently.
 
 
  ## 📈 Stats
